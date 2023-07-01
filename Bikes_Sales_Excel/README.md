@@ -1,4 +1,4 @@
-### This project was made in a excel file, so I can show off a little bit my habilites on excel software.
+### This project was made in a excel file, so I can show off a little bit my skills on the excel software.
 
 The project consists of making a dynamic dashboard to show different statistics and metrics on a **real dataset** with information about bike sales.
 
