@@ -9,7 +9,7 @@ In order to do that I had to do some information preprocessing:
 - Convert numerical values into categorical values
 - Sort the data
 
-Throught the process I used a few excel functions like **SUM()** and **IF()**. I also used tools from excel like:
+Through the process I used a few excel functions like **SUM()** and **IF()**. I also used tools from excel like:
 - Conditional formating
 - Data filtering
 - Text to columns
