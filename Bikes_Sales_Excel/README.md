@@ -20,4 +20,4 @@ Throught the process I used a few excel functions like **SUM()** and **IF()**. I
 
 Final result:
 
-![plot](./images/)
+![plot](../images/Bike_sales_dashboard.jpg)
