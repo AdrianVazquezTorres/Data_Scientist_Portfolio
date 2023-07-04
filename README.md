@@ -8,4 +8,4 @@ Although currently I have done many different projects, I am only going to uploa
 ### Python Certificate
 Here's my Python Cetificate from Udemy, although I've been coding in Python since 2017.
 
-![plot](/images/Bike_sales_dashboard.jpg)
+![plot](/images/Pyhon_certificade.jpg)
